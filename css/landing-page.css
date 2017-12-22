@@ -37,8 +37,8 @@ header.masthead {
     font-size: 2rem; }
   @media (min-width: 768px) {
     header.masthead {
-      padding-top: 50px;
-      padding-bottom: 20px; }
+      padding-top: 100px;
+      padding-bottom: 50px; }
       header.masthead h1 {
         font-size: 3rem; } }
 
@@ -107,4 +107,13 @@ footer.footer {
   color:white;
   background-color: #f7941e;
   border-color: #f7941e;
+}
+.banner-content{
+  color:white;
+  font-size:170%;
+  font-family: 'expressway';
+}
+.banner-content b{
+  font-weight: bolder;
+  color: #f7941e;
 }
